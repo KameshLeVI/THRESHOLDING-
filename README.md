@@ -78,24 +78,22 @@ for i in range(0,9):
 ## Output
 
 ### Original Image
-![Screenshot 2024-04-10 110334](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/ddd32c6c-aeeb-4fb2-84b3-20d3f8f264ee)
+![Screenshot 2024-04-10 110334](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/26bee555-3daf-4d29-923e-ee5a91cecf05)
 
 ### Global Thresholding
-![Screenshot 2024-04-10 110418](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/89b15271-c04c-4ad5-ac52-0629b9218cc8)
-![Screenshot 2024-04-10 110354](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/bae19a8b-b0e9-4e88-ae7d-b326fae4957e)
-![Screenshot 2024-04-10 110343](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/83625a51-b40d-4a7c-9201-fd6683d84d72)
-![Screenshot 2024-04-10 110427](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/80b8dd99-ce5b-4102-abd4-7)
-![Screenshot 2024-04-10 110436](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/fcb64e6e-ea69-40f7-8dbd-8f6f442cf611)
-ab9ee55d4de)
-
+![Screenshot 2024-04-10 110343](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/0a9ed891-14a2-446c-84e7-bf9661f30a23)
+![Screenshot 2024-04-10 110354](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/2a8ad0b1-08d2-4eb6-8480-5985d85bc571)
+![Screenshot 2024-04-10 110418](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/cc97d073-02f3-4172-9bb3-83ae6bcd0c9b)
+![Screenshot 2024-04-10 110427](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/9e7f4f38-e2e3-4274-9fac-c74cb805b0c7)
+![Screenshot 2024-04-10 110436](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/5b39cfcc-6e85-42cc-b53e-830219a62dd5)
 
 ### Adaptive Thresholding
-
-![Screenshot 2024-04-04 115142](https://github.com/vasundrasriravi/THRESHOLDING-/assets/119393983/f0f2cef9-52fa-49a5-b031-688016938a04)
-![Screenshot 2024-04-10 110513](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/83b7ac8c-80a0-46c1-8519-ffb38dfeadf1)
+![Screenshot 2024-04-10 110502](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/6ad7edd4-6d0b-476f-b62f-d1dec93a5341)
+![Screenshot 2024-04-10 110513](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/ae1abd94-bec8-4177-8999-ffcec85f732d)
 
 ### Optimum Global Thesholding using Otsu's Method
-![Screenshot 2024-04-10 110447](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/47aa2352-ac60-4466-ab91-e9aaa165e3cc)
+![Screenshot 2024-04-10 110447](https://github.com/KameshLeVI/THRESHOLDING-/assets/120780633/6df5c626-28b1-460b-b86a-e55b74b1ac28)
+
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
